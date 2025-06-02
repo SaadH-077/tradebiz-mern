@@ -20,11 +20,11 @@ TradeBiz is a simulated trading system that allows users to:
 
 ## 🚀 Features
 
-- 🔐 **Authentication** with secure login/signup and password change
-- 📡 **Real-time Offers** using Socket.IO rooms
-- 🛍️ **Live Trade Listings** with filtering
-- 🧠 **Backend** using Express, Mongoose, and MongoDB
-- 🎨 **Frontend** built with React + TypeScript
+- **Authentication** with secure login/signup and password change
+- **Real-time Offers** using Socket.IO rooms
+- **Live Trade Listings** with filtering
+- **Backend** using Express, Mongoose, and MongoDB
+- **Frontend** built with React + TypeScript
 
 ---
 
